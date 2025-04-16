@@ -11,4 +11,8 @@ hello
 good morning
 >>>>>>> origin/main
 
+<<<<<<< Updated upstream
 bengaluru
+=======
+chennai
+>>>>>>> Stashed changes
