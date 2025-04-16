@@ -23,6 +23,3 @@ if c==0:
     print("True")
 elif c>0:
     print("False")
-
-
-good evening

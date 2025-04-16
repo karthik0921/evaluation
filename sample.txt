@@ -12,7 +12,11 @@ good morning
 >>>>>>> origin/main
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 bengaluru
+=======
+chennai
+>>>>>>> Stashed changes
 =======
 chennai
 >>>>>>> Stashed changes
