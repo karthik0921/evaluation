@@ -5,4 +5,8 @@ is over?
 Finished...
 >>>>>>> origin/main
 
+<<<<<<< HEAD
 hello
+=======
+good morning
+>>>>>>> origin/main
