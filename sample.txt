@@ -1,2 +1,6 @@
 evaluation is going on
+<<<<<<< HEAD
 is over?
+=======
+Finished...
+>>>>>>> origin/main
